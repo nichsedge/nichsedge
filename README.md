@@ -1,24 +1,36 @@
-# Ichsanul Amal
+# Hi, I'm Ichsan
 
-Data Engineer / Analytics Engineer building reliable pipelines, data models, and measurable outcomes.
+Data & Backend Engineer from Indonesia.
 
-## Links
+I build practical systems around data, backend engineering, automation, and finance.
 
-- Projects: https://nichsedge.github.io/digital-garden/Projects
-- Resume: https://nichsedge.github.io/digital-garden/Resume
-- LinkedIn: https://www.linkedin.com/in/ichsanulamal19/
-- GitHub: https://github.com/nichsedge
+## What I work on
 
-## Current Focus
+- Data pipelines, analytics, and data quality
+- Backend APIs and full-stack experiments
+- Automation scripts and workflow tools
+- Cloud/infrastructure learning projects
+- Indonesian finance and market-data experiments
 
-- Building data systems that are reliable, observable, and easy to evolve (quality checks, lineage, performance).
-- Shipping pragmatic analytics layers (dbt models, marts, metrics definitions).
+## Featured projects
 
-## Recent Work
+### IDX / BEI Data
+Market-data project focused on Indonesian stock exchange data.
 
-- Data Engineer @ Accenture
-  - Implemented data profiling and data quality checks across Hive, Oracle, PostgreSQL.
-  - Developed Python scripts, including Airflow DAGs, for ad-hoc ETL processes and system monitoring.
-  - Optimized PostgreSQL queries, functions, and stored procedures.
+### Data Engineering Zoomcamp
+Hands-on data engineering learning: ingestion, transformation, orchestration, and warehouse-style thinking.
 
-_Auto-generated from `personal/cv.json` and `personal/branding.json`._
+### Social Media Analytics
+Analytics project exploring social data collection, processing, and insight generation.
+
+### K8s + Ansible + GCP
+Infrastructure experiment for provisioning and managing cloud-based systems.
+
+## Current direction
+
+I'm focused on becoming stronger in:
+- SQL and data modeling
+- data quality engineering
+- dbt-style analytics engineering
+- backend reliability
+- financial data products
