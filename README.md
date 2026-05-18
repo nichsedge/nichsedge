@@ -1,3 +1,1 @@
 # Hai Sayang
-
-- Patrick
